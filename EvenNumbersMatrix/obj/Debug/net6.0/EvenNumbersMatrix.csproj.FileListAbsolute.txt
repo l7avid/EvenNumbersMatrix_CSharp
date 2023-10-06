@@ -1,0 +1,15 @@
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\12 - Even Numbers Matrix\EvenNumbersMatrix\EvenNumbersMatrix\bin\Debug\net6.0\EvenNumbersMatrix.exe
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\12 - Even Numbers Matrix\EvenNumbersMatrix\EvenNumbersMatrix\bin\Debug\net6.0\EvenNumbersMatrix.deps.json
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\12 - Even Numbers Matrix\EvenNumbersMatrix\EvenNumbersMatrix\bin\Debug\net6.0\EvenNumbersMatrix.runtimeconfig.json
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\12 - Even Numbers Matrix\EvenNumbersMatrix\EvenNumbersMatrix\bin\Debug\net6.0\EvenNumbersMatrix.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\12 - Even Numbers Matrix\EvenNumbersMatrix\EvenNumbersMatrix\bin\Debug\net6.0\EvenNumbersMatrix.pdb
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\12 - Even Numbers Matrix\EvenNumbersMatrix\EvenNumbersMatrix\obj\Debug\net6.0\EvenNumbersMatrix.csproj.AssemblyReference.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\12 - Even Numbers Matrix\EvenNumbersMatrix\EvenNumbersMatrix\obj\Debug\net6.0\EvenNumbersMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\12 - Even Numbers Matrix\EvenNumbersMatrix\EvenNumbersMatrix\obj\Debug\net6.0\EvenNumbersMatrix.AssemblyInfoInputs.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\12 - Even Numbers Matrix\EvenNumbersMatrix\EvenNumbersMatrix\obj\Debug\net6.0\EvenNumbersMatrix.AssemblyInfo.cs
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\12 - Even Numbers Matrix\EvenNumbersMatrix\EvenNumbersMatrix\obj\Debug\net6.0\EvenNumbersMatrix.csproj.CoreCompileInputs.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\12 - Even Numbers Matrix\EvenNumbersMatrix\EvenNumbersMatrix\obj\Debug\net6.0\EvenNumbersMatrix.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\12 - Even Numbers Matrix\EvenNumbersMatrix\EvenNumbersMatrix\obj\Debug\net6.0\refint\EvenNumbersMatrix.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\12 - Even Numbers Matrix\EvenNumbersMatrix\EvenNumbersMatrix\obj\Debug\net6.0\EvenNumbersMatrix.pdb
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\12 - Even Numbers Matrix\EvenNumbersMatrix\EvenNumbersMatrix\obj\Debug\net6.0\EvenNumbersMatrix.genruntimeconfig.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\12 - Even Numbers Matrix\EvenNumbersMatrix\EvenNumbersMatrix\obj\Debug\net6.0\ref\EvenNumbersMatrix.dll
